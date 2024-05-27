@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> html image</title>
+</head>
+<body>
+    <h1> The Image tag</h1>
+    < img src ="https://images.app.goo.gl/iEjXDhwP7hLxAVzj8"/>
+</body>
+</html>
