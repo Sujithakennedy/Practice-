@@ -8,18 +8,18 @@
     <h1 style="color:red;">srm Institute</h1>
     <table border="1">
         <tr>
-            <td>santhi Insti</td>
-            <td>ram</td>
-            <td>bcom</td>
-            <td>2000</td>
+            <th>santhi Insti</th>
+            <th>ram</th>
+            <th>bcom</th>
+            <th>2000</th>
         </tr> 
         <tr>
             <td>vkc Insti</td>
             <td>saran</td>
             <td>bsc</td>
             <td>5000</td>
-        </tr> 
-       
+        </tr>
+
     </table>
 </body>
 </html>
