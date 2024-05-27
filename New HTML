@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Table Creation</title>
+</head>
+<body>
+    <h1 style="color:red;">srm Institute</h1>
+    <table border="1">
+        <tr>
+            <td>santhi Insti</td>
+            <td>ram</td>
+            <td>bcom</td>
+            <td>2000</td>
+        </tr> 
+        <tr>
+            <td>vkc Insti</td>
+            <td>saran</td>
+            <td>bsc</td>
+            <td>5000</td>
+        </tr> 
+       
+    </table>
+</body>
+</html>
